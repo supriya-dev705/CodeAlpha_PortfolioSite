@@ -3,9 +3,9 @@ const typingElement = document.querySelector(".typing");
 
 const words = [
     "Frontend Developer",
-    "Web Designer",
+    "Web Devloper",
     "JavaScript Developer",
-    "UI Designer"
+    "Dsa Learner"
 ];
 
 let wordIndex = 0;
